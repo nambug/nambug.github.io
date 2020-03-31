@@ -162,7 +162,7 @@ sup {
 }
 
 a {
-  color: #18BC9C;
+  color: --blue;
   text-decoration: none;
   background-color: transparent;
 }
