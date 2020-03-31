@@ -5051,7 +5051,7 @@ input[type="button"].btn-block {
 .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
   color: #fff;
 }
-
+/*
 .card {
   position: relative;
   display: -webkit-box;
@@ -5292,7 +5292,7 @@ input[type="button"].btn-block {
 .accordion > .card > .card-header {
   border-radius: 0;
   margin-bottom: -1px;
-}
+} */
 
 .breadcrumb {
   display: -webkit-box;
